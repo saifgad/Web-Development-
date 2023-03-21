@@ -1,0 +1,159 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    width: 100%;
+    
+}
+.HTMLImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+}
+.Container{
+    display: grid;
+    gap: 60px;
+    width: 90%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+.HTML_Container{
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: auto;
+    width: 80%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%;
+    
+}
+.link_HTML{
+    height: 60%;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    display: block;
+    background-color: #e84118;
+    text-decoration: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 5;
+    width:auto ;
+    margin: auto;
+}
+.link_intro{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    display: block;
+    background-color: #15dbea;
+    text-decoration: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 5;
+    width:auto ;
+    margin: auto;
+}
+.link_br_sr{
+    
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    display: block;
+    background-color: #e8189c;
+    text-decoration: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 5;
+    width:auto ;
+    margin: auto;
+
+}
+.link_rl{
+    
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    display: block;
+    background-color: #e6b42a;
+    text-decoration: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 5;
+    width:auto ;
+    margin: auto;
+}
+.link_Markups{
+    
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    display: block;
+    background-color: #000000;
+    text-decoration: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 5;
+    width:auto ;
+    margin: auto;
+}
+.link_BL_IN{
+    
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    display: block;
+    background-color: #18e83e;
+    text-decoration: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 5;
+    width:auto ;
+    margin: auto;
+}
+.link_CSS{
+    
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    display: block;
+    background-color: #3b18e8;
+    text-decoration: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 5;
+    width:auto ;
+    margin: auto;
+}
+.instead_of_Div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+    width: 40%;
+}
+.Introduction{
+    display: grid;
+    width: auto;
+    border: 2px solid black;
+}
